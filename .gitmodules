@@ -1,3 +1,3 @@
-[submodule "themes/nightfall"]
-	path = themes/nightfall
+[submodule "Artifacts/themes/nightfall"]
+	path = Artifacts/themes/nightfall
 	url = https://github.com/LordMathis/hugo-theme-nightfall
