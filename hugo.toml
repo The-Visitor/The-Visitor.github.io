@@ -1,7 +1,7 @@
 baseURL = "https://The-Visitor.github.io/"
 languageCode = "en-us"
 title = "Artifacts"
-theme = "nightfall"
+theme = "Nightfall"
 
 
 [params]
@@ -19,7 +19,7 @@ description = "Records of a Cyber Journey"
 key = 0
 name = "github"
 url = "https://github.com/The-Visitor"
-icon = "fa-brands fa-github fa-4x" # Link icon font in themes/nightfall/layouts/partials/custom-head.html
+icon = "fa-brands fa-github fa-4x" # Link icon font in themes/Nightfall/layouts/partials/custom-head.html
 aria = "Github Profile" # ARIA (Accessible Rich Internet Applications) for accessibility like page reader - better for SEO
 
 
