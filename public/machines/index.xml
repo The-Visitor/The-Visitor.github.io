@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artifacts</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Artifacts</description>
+    <title>Machines on Artifacts</title>
+    <link>http://localhost:1313/machines/</link>
+    <description>Recent content in Machines on Artifacts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 16:10:31 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/simulations/</link>
-      <pubDate>Thu, 03 Oct 2024 16:10:31 +0300</pubDate>
-      <guid>http://localhost:1313/simulations/</guid>
-      <description>&lt;h1 id=&#34;aisimulationsai&#34;&gt;&lt;a href=&#34;http://localhost:1313/simulations/ai&#34;&gt;AI&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;ciscosimulationscisco&#34;&gt;&lt;a href=&#34;http://localhost:1313/simulations/cisco&#34;&gt;Cisco&lt;/a&gt;&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/programs/</link>
-      <pubDate>Thu, 03 Oct 2024 15:37:54 +0300</pubDate>
-      <guid>http://localhost:1313/programs/</guid>
-      <description>&lt;h1 id=&#34;projectsprogramsprojects&#34;&gt;&lt;a href=&#34;http://localhost:1313/programs/projects&#34;&gt;Projects&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;toolsprogramstools&#34;&gt;&lt;a href=&#34;http://localhost:1313/programs/tools&#34;&gt;Tools&lt;/a&gt;&lt;/h1&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 28 Sep 2024 16:41:31 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/machines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pickle Rick</title>
       <link>http://localhost:1313/machines/pickle-rick/</link>

@@ -1,8 +1,45 @@
-baseURL = 'https://The-Visitor.github.io/'
-languageCode = 'en-us'
-title = 'Artifacts'
+baseURL = "https://The-Visitor.github.io/"
+languageCode = "en-us"
+title = "Artifacts"
 theme = "nightfall"
+
 
 [params]
 user = "The-Visitor"
 hostname = "Artifacts"
+footerHtml = "(っ◕‿◕)っ"
+published = false
+readingTime = false
+
+[params.site]
+name = "Artifacts"
+description = "Records of a Cyber Journey"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/The-Visitor"
+icon = "fa-brands fa-github fa-4x" # Link icon font in themes/nightfall/layouts/partials/custom-head.html
+aria = "Github Profile" # ARIA (Accessible Rich Internet Applications) for accessibility like page reader - better for SEO
+
+
+[menu]
+[[menu.header]]
+name = "Machines"
+weight = 1
+url = "/machines"
+
+[[menu.header]]
+name = "Programs"
+weight = 2
+url = "/programs"
+
+[[menu.header]]
+name = "Simulations"
+weight = 3
+url = "/simulations"
+
+[[menu.header]]
+name = "Threats"
+weight = 4
+url = "/threats"
