@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Artifacts'
+theme = "nightfall"
+
+[params]
+user = "The-Visitor"
+hostname = "Artifacts"
