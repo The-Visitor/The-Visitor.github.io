@@ -30,16 +30,11 @@ weight = 1
 url = "/machines"
 
 [[menu.header]]
-name = "Programs"
+name = "Networks"
 weight = 2
-url = "/programs"
+url = "/networks"
 
 [[menu.header]]
-name = "Simulations"
+name = "Tools"
 weight = 3
-url = "/simulations"
-
-[[menu.header]]
-name = "Threats"
-weight = 4
-url = "/threats"
+url = "/tools"

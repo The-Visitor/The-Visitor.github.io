@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/simulations/</loc>
-    <lastmod>2024-10-03T16:10:31+03:00</lastmod>
+    <loc>https://the-visitor.github.io/</loc>
+    <lastmod>2024-10-04T12:21:18+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-03T16:10:31+03:00</lastmod>
+    <loc>https://the-visitor.github.io/tools/nmap/</loc>
+    <lastmod>2024-10-04T12:21:18+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/programs/</loc>
-    <lastmod>2024-10-03T15:37:54+03:00</lastmod>
+    <loc>https://the-visitor.github.io/tools/</loc>
+    <lastmod>2024-10-04T12:21:18+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/machines/</loc>
+    <loc>https://the-visitor.github.io/tools/nikto/</loc>
+    <lastmod>2024-10-04T12:19:40+03:00</lastmod>
+  </url><url>
+    <loc>https://the-visitor.github.io/machines/</loc>
     <lastmod>2024-09-28T16:41:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/machines/pickle-rick/</loc>
+    <loc>https://the-visitor.github.io/machines/pickle-rick/</loc>
     <lastmod>2024-09-28T16:41:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://the-visitor.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://the-visitor.github.io/tags/</loc>
   </url>
 </urlset>

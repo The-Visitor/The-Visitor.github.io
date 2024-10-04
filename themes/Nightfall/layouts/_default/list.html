@@ -17,7 +17,7 @@
     {{ end }}
 
     <div>
-        {{ range .Pages }}
+        {{ range .Pages.ByTitle }}
 
         <a class="postListLink" href="{{ .Permalink }}">
             <!-- [html-validate-disable-next prefer-native-element] -->

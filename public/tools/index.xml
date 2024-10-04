@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artifacts</title>
-    <link>http://localhost:1313/programs/tools/</link>
-    <description>Recent content on Artifacts</description>
+    <title>Tools on Artifacts</title>
+    <link>https://the-visitor.github.io/tools/</link>
+    <description>Recent content in Tools on Artifacts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 16:02:40 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/programs/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 12:21:18 +0300</lastBuildDate>
+    <atom:link href="https://the-visitor.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Network Mapper</title>
-      <link>http://localhost:1313/programs/tools/nmap/</link>
-      <pubDate>Thu, 03 Oct 2024 16:02:40 +0300</pubDate>
-      <guid>http://localhost:1313/programs/tools/nmap/</guid>
+      <link>https://the-visitor.github.io/tools/nmap/</link>
+      <pubDate>Fri, 04 Oct 2024 12:21:18 +0300</pubDate>
+      <guid>https://the-visitor.github.io/tools/nmap/</guid>
       <description>&lt;h3 id=&#34;command-nmap&#34;&gt;Command: nmap&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;usage&#34;&gt;Usage:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Network discovery&lt;/li&gt;&#xA;&lt;li&gt;Security auditing&lt;/li&gt;&#xA;&lt;li&gt;Capable of scanning networks to identify active hosts, services, open ports, and potential vulnerabilities&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Nikto</title>
-      <link>http://localhost:1313/programs/tools/nikto/</link>
-      <pubDate>Thu, 03 Oct 2024 16:00:52 +0300</pubDate>
-      <guid>http://localhost:1313/programs/tools/nikto/</guid>
+      <link>https://the-visitor.github.io/tools/nikto/</link>
+      <pubDate>Fri, 04 Oct 2024 12:19:40 +0300</pubDate>
+      <guid>https://the-visitor.github.io/tools/nikto/</guid>
       <description>&lt;h3 id=&#34;command-nikto&#34;&gt;Command: nikto&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;usage&#34;&gt;Usage:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Web server scanner used for identifying vulnerabilities, outdated software, and security misconfigurations in web servers&lt;/li&gt;&#xA;&lt;li&gt;Insecure files and scripts&lt;/li&gt;&#xA;&lt;li&gt;Misconfigured server options&lt;/li&gt;&#xA;&lt;li&gt;Default configurations&lt;/li&gt;&#xA;&lt;li&gt;Known vulnerabilities (CVEs)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

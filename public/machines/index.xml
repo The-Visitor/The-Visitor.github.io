@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machines on Artifacts</title>
-    <link>http://localhost:1313/machines/</link>
+    <link>https://the-visitor.github.io/machines/</link>
     <description>Recent content in Machines on Artifacts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 16:41:31 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/machines/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://the-visitor.github.io/machines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pickle Rick</title>
-      <link>http://localhost:1313/machines/pickle-rick/</link>
+      <link>https://the-visitor.github.io/machines/pickle-rick/</link>
       <pubDate>Sat, 28 Sep 2024 16:41:31 +0300</pubDate>
-      <guid>http://localhost:1313/machines/pickle-rick/</guid>
+      <guid>https://the-visitor.github.io/machines/pickle-rick/</guid>
       <description>&lt;h4 id=&#34;source-tryhackmehttpstryhackmecomrroompicklerick&#34;&gt;Source: &lt;a href=&#34;https://tryhackme.com/r/room/picklerick&#34;&gt;TryHackMe&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h3 id=&#34;objective&#34;&gt;Objective:&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Obj_1 -&amp;gt; What is the first ingredient that Rick needs?&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;&lt;strong&gt;Obj_2 -&amp;gt; What is the second ingredient in Rick’s potion?&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;&lt;strong&gt;Obj_3 -&amp;gt; What is the last and final ingredient?&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA; &lt;br&gt;&#xA; &lt;/p&gt;&#xA;&lt;h3 id=&#34;methodology&#34;&gt;Methodology:&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;nmap -sV -v {target_ip}&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Info:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)&lt;/li&gt;&#xA;&lt;li&gt;80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;browser search {target_ip}&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Info:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inspected the page and found a comment,&lt;br&gt;&#xA;Note to self, remember username! Username: R1ckRul3s&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;gobuster dir -u http://{target_ip} -w {path_to_wordlist}&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
